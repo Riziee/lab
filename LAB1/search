@@ -1,0 +1,21 @@
+#include "linkedlist.h
+
+List::List(){
+    int data;
+
+
+    Head=nullptr;
+    Tail=nullptr;
+}
+voidList::bool search (int data,Node* p){
+
+}while(p!=NULL && p->into!=data){
+
+
+p=p->next
+}
+if (p==NULL);
+return false;
+else
+outputPtr=p
+
